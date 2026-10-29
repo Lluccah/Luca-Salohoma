@@ -1,0 +1,23 @@
+Web Fundamentals
+
+1. What is Web 3.0 and how is it different from Web 1.0 and Web 2.0?
+
+Web 1.0 was the early version of the web. Websites were mainly static and users mostly read information without much interaction.
+
+Web 2.0 made the web more interactive. Users can create, share and comment on content through social media, blogs and other online services.
+
+Web 3.0 is the idea of a more decentralized and intelligent web. It aims to give users more control over their data and digital assets, often using technologies such as blockchain. In simple terms, Web 1.0 was mainly about reading, Web 2.0 is about reading and creating content, and Web 3.0 aims to add greater user ownership and decentralization.
+
+2. What are the functional differences between the front end and back end of a web application?
+
+The front end is the part of a web application that the user can see and interact with. It includes buttons, menus, text, images, forms and page layouts. Front-end development commonly uses HTML, CSS and JavaScript.
+
+The back end works behind the scenes. It handles application logic, communicates with databases, processes user requests and manages data. For example, the front end can display a login form while the back end checks the login information and returns the result.
+
+3. What happens after typing a URL into a browser?
+
+When I type a URL into the browser, the browser first needs to find the server that hosts the website. It uses the Domain Name System (DNS) to translate the website's domain name into an IP address.
+
+Once the server is found, the browser connects to it and sends an HTTP or HTTPS request asking for the webpage. The web server receives the request and sends back the required website files or generated content.
+
+The browser receives files such as HTML, CSS, JavaScript and images. It processes these files, puts the webpage together and displays the final page on my screen.

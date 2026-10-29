@@ -1,0 +1,66 @@
+2.writing pseudocode for the following scenarios
+
+An algorithm that asks a user to enter a positive number repeatedly until
+the user enters a zero value, then determines and outputs the largest of
+the numbers that were entered.
+ 
+set largest number to zero
+set counter to one
+repeat:
+Request a positive number from user
+get number from user
+if the user's input is greater than set largest number
+   print request a positive number
+if the input is equal to zero(0)
+  endit and 
+print the largest number entered.
+
+An algorithm that requests a user to input their name and then stores
+their name in a variable called first_name. Subsequently, the algorithm
+should print out first_name along with the phrase “Hello, World”.
+
+request user to enter/input their name
+store the input in a variable called "first_name"
+request user to enter/input their name 
+input name from user
+output "first_name" + "Hello, World"
+
+An algorithm that reads an arbitrary number of integers and then returns
+their arithmetic average.
+
+Read arbitrary number of integers
+set sum to 0
+set count to 
+ add the integer to sum
+ increment count by 1
+ divide the sum by count
+output:return the calculated average.
+
+ An algorithm that reads a grocery list and prints out the products (in
+alphabetical order) that are still left to buy.
+
+input an empty list
+store to a variable called grocery_list
+input empty list
+store to a variable called left_to_buy
+input product
+ if the product is true, safe to grocery_list
+ else:safe to left_to_buy 
+ remove the items that have already been bought from the list,
+ organize or sort the list alphabetically, 
+ print the organized/sorted list.
+
+
+An algorithm for the flowchart on the following page:
+
+start
+Request an integer and store it in a variable named "X".
+Request another integer and store it in a variable named "Y".
+
+Add X and Y, and store the result in a variable named "S"
+dived S by 2 and store the result in a variable named "A"
+multiply X and y store result in a variable named "p" 
+print S,A,P
+STOP
+
+

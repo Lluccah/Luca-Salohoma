@@ -1,0 +1,25 @@
+       Practical task 2
+
+Three things that should have alerted me
+
+The email address where it was send from doesn't look legit and has some mistake.
+the email intend to put me in a emotional state which is being fearful
+the email persuaded me to provide my login credential for my online banking which a bank will never ask me to do.
+
+Do you think its possible your computer is infected.
+
+Yes. it is possible that my computer is infected, my computer seems to be slower than usual just after I have received the email.
+ one of the mechanism of infections is downloading infected files via email attachments ,websites or file-sharing. Common signs is reduced computing performance such as slow-running processes.
+
+Paragraph to train fellow employees.
+
+Criminals are more into cyber attacks ,these type of attacks are usually facilitated by malware ( Malicious Software.). I will be talking about one important and most common cyber attacks we all have encountered called phishing. Phishing : a subset of spam email where victims are persuaded that the email is from a legitimate source. Phishing emails are targeted towards a specific individuals or organisations. they persuade victims to provide login credentials for their online banking ,social media Etc , the list goes on. Being aware of such cyber attacks ( phishing ),can help you not to be at risk in a personal capacity as well as at an organisational level. We should also be aware of social engineering, whereby users are deceived into providing sensitive information or download malware. social engineering in particular requires us to be aware of tactics used by cyber criminals to deceive you. one of the tactics is to get you into an heightened emotional state such as being fearful or excited. This is because you are more likely to rush decisions in a heightened emotional state.
+avoid:
+clicking on links of malicious websites
+visiting a compromised site
+inserting infected external hard drives or USB
+succumb to social engineering attack.
+
+
+
+

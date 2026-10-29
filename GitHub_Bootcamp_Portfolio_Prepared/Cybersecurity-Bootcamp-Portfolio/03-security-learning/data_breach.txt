@@ -1,0 +1,20 @@
+  Practical task 1
+
+1. Did I find my email in a data breach?
+
+I did check my email, so I have found that my email was not exposed to any breaches. But if it was found the result would list all breaches in which that email appeared, along with what types of data were exposed (email, passwords, names, etc.). 
+
+The risk for individuals when havening their email addresses and passwords exposed to the public are
+
+financial fraud: will have access to your banking login details.
+cyber-enable: cyberbullying ( doxing ) releasing of private information
+ransomware : use personal information and hold it for Ransome
+man-in-the middle attacks
+
+Two actions to protect yourself against the risks associated with data breaches
+
+Enable multi‑factor authentication (MFA / 2FA) on all accounts that support it, so that knowing the password alone isn’t enough to gain access. ⁠
+
+
+Use a password manager to generate and store unique, strong passwords per site (so that if one password is leaked, it won’t compromise other accounts). ⁠
+

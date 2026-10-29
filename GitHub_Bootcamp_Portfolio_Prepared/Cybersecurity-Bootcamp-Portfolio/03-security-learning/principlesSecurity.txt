@@ -1,0 +1,21 @@
+Principles‑Based Security Governance Framework for Our Consultancy
+
+1.	Governance
+
+The company must have a baseline standard policies and procedures in place Determines how the company makes decisions about security risk management, integrating it with business goals
+
+2.	Tools and devices
+
+All tools and devices, including personal devices must meet the security requirements and standards, they should have up to date antiviruses software
+
+3.	Data protection and Networks
+
+Validating identity and devices is mandatory before access is. Network location being café, Restaurants, or public places such us libraries are strictly prohibited to prevent using public networks.
+
+4.	Policy and Guidelines 
+
+Training employees to understand how to spot threats. Policies with regular training on phishing detection, not to click unknown links and verifying attachments must be in place.
+
+5.	Detections and response
+
+Maintain continuous logging, anomaly detection, alerts to detect unusual login times. Define an incident response plan, so that when a breach occurs, you can response swiftly.
